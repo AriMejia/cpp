@@ -1,3 +1,9 @@
+/* Proposito: Crear un programa que simule una factura con descuento y exanta
+   Ariel Aminadad Mejia Diaz
+   #20182030543
+   lenguaje de programacion #1
+   */
+   
 #include <iostream>
 #include <cmath>
 
